@@ -1,0 +1,5 @@
+Ditampilkan Pattern -> Penghitungan Waktu Mundur Menghafal -> Game dimulai -> Hamster Muncul Sesuai Pattern 
+
+-> JIka Hamster Dipukul Akan Memunculkan Suara Not -> Setelah Game Selesai Akan Ditunjukkan Score -> Klik Continue 
+
+-> Menampilkan Suara Lagu Yang Dipilih dan Dimainkan -> Lagu Selesai -> Klik Finish 

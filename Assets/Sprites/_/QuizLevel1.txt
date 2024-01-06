@@ -1,0 +1,18 @@
+Atletik terbagi menjadi beberapa cabang olahraga, kecuali...
++Lari
++Jalan
++Lempar
++Memanjat
++D
+#Nomor lompat terdiri dari beberapa cabang, kecuali...
++Tinggi
++Galah
++Katak 
++Jangkit
++C
+#Manusia pertama di dunia untuk mempertahankan hidupnya, harus melakukan beberapa hal. Kecuali...
++Jalan Cepat
++Merangkak
++Lari
++Lempat
++B
